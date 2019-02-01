@@ -1,0 +1,6 @@
+torch==1.0.0
+torchvision==0.2.1
+python-dateutil==2.7.5
+easydict==1.9
+scikit-image==0.14.1
+runway-python==0.0.34
