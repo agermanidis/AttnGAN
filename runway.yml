@@ -1,18 +1,11 @@
 name: AttnGAN
-
 description: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks
-
 license: MIT
-
 python: 3.6
-
 cuda: 9.2
-
 entrypoint: python server.py
-
 files:
   ignore:
     - client/*
-
 build_steps:
   - pip install -r requirements.txt
