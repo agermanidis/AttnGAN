@@ -7,4 +7,4 @@ runway-python
 scipy>=1.2.1
 numpy==1.15.0
 pyyaml>=3.12
-werkzeug==0.16.0
+werkzeug==2.2.3
